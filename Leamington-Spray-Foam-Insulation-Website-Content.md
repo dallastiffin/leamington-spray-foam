@@ -2,11 +2,13 @@
 
 # Spray Foam Insulation In Leamington, Ontario
 
-## Insulation And Air Sealing In One Pass
+## Welcome To Leamington Spray Foam Insulation
 
-Spray foam does two jobs at once. It insulates, and it seals the gaps that batts leave behind. That second job is where most of the comfort comes from.
+Welcome to Leamington [Spray Foam Insulation](http://conroesprayfoaminsulation.com/). We serve homeowners and businesses in Leamington and the surrounding area with the highest quality spray foam insulation service available. Our customers call us when they want the best performing insulation on the market for their homes, offices and buildings.
 
-We install [spray foam insulation](http://conroesprayfoaminsulation.com/) in attics, walls, basements, crawl spaces, garages, greenhouses and packhouses. Every quote starts with somebody looking at the space.
+Spray foam does two jobs at once. It insulates, and it seals the gaps that batt insulation leaves behind. That second job is where most of the comfort and most of the saving comes from.
+
+We insulate attics, walls, basements, crawl spaces, garages, greenhouses and packhouses. Every quote starts with somebody coming out to look at the space.
 
 ## What Are The Benefits Of Spray Foam Insulation?
 
