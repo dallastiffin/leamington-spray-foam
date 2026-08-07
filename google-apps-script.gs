@@ -134,7 +134,7 @@ function appendRow(data) {
     sheet.appendRow(headers);
     sheet.getRange(1, 1, 1, headers.length)
          .setFontWeight('bold')
-         .setBackground('#2e2a26')  // brand charcoal, matches the site
+         .setBackground('#10373d')  // brand lake teal, matches the site
          .setFontColor('#ffffff');
     sheet.setFrozenRows(1);
     sheet.setColumnWidth(6, 420);   // give the message column room
