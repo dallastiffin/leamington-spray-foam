@@ -2,181 +2,167 @@
 
 # Spray Foam Insulation In Leamington, Ontario
 
-## Insulation Built For The Warmest, Dampest Corner Of Canada
+## Insulation And Air Sealing In One Pass
 
-Leamington sits further south than any other town on the Canadian mainland. We are on the 42nd parallel, the same line as Chicago and Rome, and Lake Erie wraps around three sides of us. That gives us the longest warm season in Ontario and some of the highest humidity in the country.
+Spray foam does two jobs at once. It insulates, and it seals the gaps that batts leave behind. That second job is where most of the comfort comes from.
 
-It also means the [insulation advice](https://seattleinsulationcompany.com/) written for Barrie or Sudbury does not fit here. Most of it is about holding heat in through a long frozen winter. Half of our problem is the opposite, and it runs from May to September.
-
-We install [spray foam insulation](http://conroesprayfoaminsulation.com/) in attics, walls, basements, crawl spaces, garages, greenhouses and packhouses across Leamington and south Essex County. Every job starts with somebody looking at the space.
-
-## Why Summer Is The Season That Decides Your Insulation Here
-
-Point Pelee averages more than 170 frost-free days a year. Guelph, a couple of hours up the road, gets about 135. That is more than a month of extra warm weather, and it comes with lake humidity sitting on top of it.
-
-When it is 30 degrees and sticky outside and your basement is at 20, the moisture in that outdoor air wants to move inward. It travels through block and brick and finds the first cool surface it can reach. If that surface is the back of a fibreglass batt against a foundation wall, the water condenses there, out of sight, and stays.
-
-That is why so many Leamington basements smell musty in August rather than in January. It is not a leak. It is warm wet air meeting a cold wall inside a stud bay nobody can see into.
-
-[Closed cell spray foam](http://kirklandsprayfoaminsulation.com) sprayed straight onto the concrete removes the gap where that happens. There is no cavity for the air to reach and no cold face for it to condense on. This is the single biggest difference between insulating a house here and insulating one two hours north.
+We install [spray foam insulation](http://conroesprayfoaminsulation.com/) in attics, walls, basements, crawl spaces, garages, greenhouses and packhouses. Every quote starts with somebody looking at the space.
 
 ## What Are The Benefits Of Spray Foam Insulation?
 
-It seals and insulates in the same pass. Foam expands into the gaps around joists, wiring, plumbing and top plates, which is where most of the air actually moves.
+It seals as it insulates. Foam expands into the gaps around joists, wiring, plumbing and top plates, which is where the air actually moves.
 
-Closed cell foam is its own vapour control layer at the right thickness. In a humid climate that matters more than the R-value printed on the bag.
+Closed cell foam is its own vapour control layer at the right thickness. In a lake climate that matters as much as the R-value.
 
-It holds its shape. Batts sag, settle and get pushed aside. Foam is stuck to the substrate and stays where it was sprayed.
+It holds its shape. Batts sag, settle and get pushed aside. Foam is bonded to the substrate and stays where it was sprayed.
 
-It does not feed mould and it is not a nesting material. In a crawl space near Hillman Marsh that is worth a great deal.
+It does not absorb water, it does not feed mould, and rodents cannot nest in it.
 
-Closed cell foam adds racking strength to a wall assembly. In the most tornado-prone part of Canada that is a genuine side benefit.
+Closed cell adds real racking strength to a wall. Useful anywhere, and Essex County gets more tornado warnings than most of the country.
 
-It fits odd shapes. Rim joists, brick ledges, the angle where a knee wall meets a roof deck, the top of a foundation wall. Batts never fit those properly.
+It fits awkward shapes. Rim joists, brick ledges, the angle where a knee wall meets a roof deck. Batts never fit those properly.
 
-## Closed Cell Or Open Cell In A Leamington House
+## Closed Cell Or Open Cell
 
-The short rule we use: closed cell anywhere the moisture is on the other side, open cell where it is not.
+The short rule: closed cell wherever moisture is on the other side, open cell where it is not.
 
-Closed cell goes on foundation walls, crawl space walls, rim joists, floors over unheated space, and anything in an agricultural or cold storage building. It runs about R-6 to R-7 an inch and stops vapour once it is thick enough.
+[Closed cell spray foam](http://kirklandsprayfoaminsulation.com) runs about R-6 to R-7 an inch, blocks vapour once it is thick enough, and belongs on foundation walls, crawl space walls, rim joists and anything agricultural or refrigerated.
 
-Open cell is for interior partitions, ceilings under a conditioned attic, and rooms where you want the sound knocked down. It is around R-3.5 to R-3.8 an inch and costs less, but it does not control vapour at all.
+Open cell is around R-3.5 to R-3.8 an inch, costs less, and does not control vapour at all. It suits interior partitions, sound damping and ceilings under conditioned space.
 
-Getting this backwards is the most common mistake we are called out to fix. Open cell on a Leamington basement wall lets summer humidity straight through to the concrete, and then you have a damp wall behind new drywall.
+Getting this backwards is the most common fault we are called out to fix.
 
-## The Clay Under Your House Changes The Job
+## Air Sealing Is Most Of The Value
 
-Essex County sits on thirty to sixty metres of clay over limestone. It holds water rather than draining it, and the water table around Leamington is high and close to the surface.
+Depth is the number people ask about. Gaps are the number that matters.
 
-Two things follow from that. Foundation walls here stay damp on the outside for most of the year, so whatever you put against them on the inside has to be able to cope with that. And the ground around your footings moves as the clay swells and shrinks, which opens small gaps at the rim joist over time.
+A bathroom fan venting into the attic, an open chase around a plumbing stack, the top plate of every interior wall. A deep layer of insulation with a hole in the middle of it is still a hole.
 
-We take a moisture reading on the concrete before we spray anything. If the slab or the wall is wet, foam is the wrong first purchase and we will say so. Grading, downspouts and weeping tile come first. Insulation goes on after.
-
-## Crawl Spaces Near The Lake And The Marsh
-
-South of town, out toward Point Pelee, Marentette Beach, Sturgeon Woods and the Hillman area, a lot of houses sit on crawl spaces rather than full basements. Much of that ground was marsh before it was drained.
-
-Those crawl spaces were nearly all built vented, on the theory that outside air would dry them out. In a climate this humid it does the opposite. You are pulling damp lake air into a cool space under the floor all summer, and it condenses on the joists.
-
-The fix is to stop treating the crawl space as outdoors. Seal the vents, sheet the ground, spray the perimeter walls and the rim, and let the space sit at the same conditions as the house above it. Floors get warmer, the musty smell goes, and the joists stop taking on water every July.
+This is the part that separates a good [insulation](https://seattleinsulationcompany.com/) job from a cheap one, and it is why we take readings before quoting rather than pricing off square footage.
 
 ## Attic Insulation
 
-[Attic spray foam](http://puyallupsprayfoaminsulation.com/) is still the cheapest comfort you can buy in most houses. Heat goes up and out through the ceiling, and warm damp indoor air goes with it.
+Attics are the cheapest comfort in most houses. Heat rises out through the ceiling, and warm damp indoor air goes with it.
 
-We either spray the attic floor and leave the roof vented, or spray the underside of the roof deck and seal the attic into the house. Which one depends on how the roof is built, whether there is duct work up there, and what the current insulation is doing.
+[Attic spray foam](http://puyallupsprayfoaminsulation.com/) goes either across the attic floor with the roof left vented, or onto the underside of the roof deck to bring the attic inside the building. Which one depends on how the roof is built and whether there is ducting up there.
 
-Either way the air sealing matters more than the depth. A perfectly deep layer of insulation with a gap around the bathroom fan is not doing its job.
+Around here it earns its keep in August as much as February. A dark roof drives heat down into the top floor all afternoon.
 
 ## Basement Insulation
 
-The 2024 Ontario Building Code asks for R-20 on basement walls in new construction. The old number was R-12. That is a large jump and it changed what a basement assembly has to look like.
+Closed cell sprayed straight onto the concrete gives you insulation, an air barrier and vapour control in one pass, with no cavity behind it to trap moisture.
 
-Closed cell straight onto the concrete gives you insulation, an air barrier and a vapour control layer in one pass, with nothing behind it to trap water. Then studs go in front of it and the drywall goes on those.
+That last part is the point. The usual assembly, studs held off the wall with batts between them and poly over the front, leaves a gap of still air against cold concrete. Humid air finds it and condenses there. You smell it before you see it.
 
-Rim joists come with any basement job. They are a small area doing a large amount of the leaking, and they are usually the cheapest square footage on the quote.
+Rim joists come with the job. Small area, large share of the leaking, cheapest square footage on the quote.
+
+## Crawl Space Insulation
+
+Most crawl spaces were built vented, on the theory that outside air would dry them out. In a humid climate it does the opposite.
+
+Sealing one means closing the vents, sheeting the ground, and foaming the perimeter walls and rim rather than the joists overhead. The space then sits at the same conditions as the house above it.
+
+Floors get warmer, the musty smell goes, and the framing stops cycling wet and dry through the year. South of town, where a lot of houses sit on crawl spaces instead of basements, this is the single most common job we do.
 
 ## Garage Insulation
 
-Most garage complaints in Leamington are really complaints about the room above the garage, or the wall the garage shares with the kitchen.
+Most cold garage complaints are really complaints about the room above it or the wall it shares with the house.
 
-The wall between the garage and the house is the one that matters most. It should be sealed properly for air quality reasons as much as comfort. The ceiling under a bonus room is the second priority, and the header above the overhead door is usually the worst single gap in the whole building.
+That shared wall matters most. It separates living space from a room where a vehicle runs and chemicals sit on a shelf, so it needs sealing for air quality as much as comfort.
 
-A detached shop is a different conversation. There we are usually looking at the roof deck and the walls together, because you are trying to hold a temperature rather than just take the edge off.
+The header above the overhead door is usually the worst single gap in the building, and it takes very little foam to fix.
 
-## Old Insulation Sometimes Has To Come Out First
+## New Construction Insulation
 
-We do not spray over insulation that has failed. If the existing material is wet, mouldy, rodent damaged or compacted flat, it comes out first.
+The 2024 code raised the numbers and put far more weight on measured airtightness. An assembly can hit its nominal R-value and still fail a blower door test.
 
-That is not upselling. Foam sticks to what it is sprayed onto. Spray it onto a damp compressed batt and you have sealed a wet problem inside a wall where nobody can see it.
+Foam does the sealing and the insulating in one operation instead of relying on a separate membrane being installed perfectly. Flash and batt is often the sensible middle ground on above grade walls.
 
-Removal is its own job with its own equipment and its own disposal. We quote it separately so you can see what it is costing.
+Book us at framing stage. The window between rough-in inspection and drywall is tighter than most people expect.
+
+## Insulation Removal
+
+We do not spray over insulation that has failed. Foam bonds to whatever is underneath it, so spraying onto a damp compressed batt seals a wet problem inside a wall where nobody can inspect it.
+
+Wet, mouldy, rodent damaged or flattened material comes out first. It is quoted separately so you can see what that part costs.
+
+If what you have is dry and doing its job, we will tell you it can stay.
 
 ## Greenhouses, Packhouses And Cold Storage
 
-Leamington has the largest concentration of commercial greenhouses in North America, close to two thousand acres of it. Nobody sprays foam on glass or poly, and we would not suggest it.
+Nobody sprays foam on glazing and we would not suggest it. The building exists to let light in.
 
-What does get insulated is everything around the growing area. Headhouses, grading and packing rooms, boiler rooms, cold storage, north gable ends, perimeter curtain walls below bench height, and the service buildings that are heated harder than the range itself.
+What does get insulated is everything around the growing area. Headhouses, grading and packing rooms, boiler rooms, cold storage, north gable ends, and perimeter curtain walls below bench height.
 
-Perimeter and gable insulation has a short payback on a heated range, because the walls lose a disproportionate amount once energy curtains are handling the roof. We are happy to walk a site and tell you which parts are worth doing and which are not.
-
-## Wind Is A Real Load Here
-
-Southwestern Ontario is the most tornado-prone part of Canada, and Essex County is at the front of it. In June 2010 an F1 ran from Harrow through Kingsville and into southern Leamington.
-
-Closed cell foam bonds to sheathing and framing and adds measurable racking strength to a wall. It is not a structural product and we will never sell it as one, but on a new build or a re-sheathed wall it is a real advantage that comes free with the insulation.
+With energy curtains handling the roof, the walls become a disproportionate share of the loss, so perimeter work usually pays back fastest. Worth knowing in a town with two thousand acres under glass.
 
 ## Signs Your Insulation Has Stopped Working
 
-A musty smell that shows up in July rather than January. That is almost always summer humidity condensing somewhere cool.
+A musty smell that shows up in July rather than January.
 
 Floors above a crawl space that feel cold and slightly damp underfoot.
 
-Rooms on the north side that never come up to temperature no matter what the thermostat says.
+North-side rooms that never come up to temperature whatever the thermostat says.
 
-Bills that keep climbing while the equipment stays the same age.
+Bills climbing while the equipment stays the same age.
 
-Rodent runs, matted batts, or insulation that has gone grey and flat.
+Rodent runs, matted batts, or insulation gone grey and flat.
 
 ## What Happens During A Spray Foam Install
 
-We come out and look. Moisture readings, substrate temperature, a look at what is already there and where the air is actually moving.
+We come out and look. Moisture readings, substrate temperature, and a check on where the air is actually moving.
 
-You get a written quote with the product, the installed thickness and the price on one page. If drywall or a thermal barrier is needed to satisfy the code, that is on the quote too rather than turning up later.
+You get a written quote naming the product, the installed thickness and the price on one page. If the code wants drywall over the foam, that is on the quote rather than turning up later.
 
-On the day, the space gets cleared and masked, anything that has to come out comes out, and the crew sprays in lifts rather than all at once so the foam cures properly.
+On the day the space is cleared and masked, anything failed comes out, and the crew sprays in lifts so the foam cures properly.
 
-We trim back anything proud of the framing, clean up, and re-occupancy timing gets explained before we leave. It is normally the same day for most residential work, but we will tell you the real number for your job.
+We trim back anything proud of the framing, clean up, and give you a re-occupancy time before we leave.
 
 ## What It Costs And What Moves The Number
 
-Across Ontario in 2026, open cell tends to run somewhere around one and a half to two and a half dollars a square foot, and closed cell roughly three to seven. Those are market ranges, not a quote for your building.
+Across Ontario in 2026, open cell runs somewhere around one and a half to two and a half dollars a square foot, closed cell roughly three to seven. Those are market ranges, not a quote for your building.
 
-Getting to the work drives the total harder than the foam does. A basement you can stand up in and a crawl space with eighteen inches of headroom might swallow the same amount of material, but one of them takes a crew twice as long on their backs.
+Getting to the work drives the total harder than the foam does. A basement you can stand up in and a crawl space with eighteen inches of headroom might swallow the same material, but one takes a crew twice as long on their backs.
 
-Like every installer we have a minimum job size that covers travel, setup and the material we have to open regardless of how small the area is. We tell you that figure before you book anything.
+There is a floor on what we can quote. Very small jobs carry a minimum, and you hear that figure before anything is booked.
 
-## The Code Says Foam Has To Be Covered
+## Foam Has To Be Covered
 
-This surprises most homeowners and a lot of quotes leave it out. Spray foam in an occupied space cannot be left exposed. It needs a thermal barrier over it, and half-inch drywall is the standard accepted assembly.
+This surprises most homeowners and a lot of quotes leave it out. Foam in an occupied space cannot be left exposed. It needs a thermal barrier over it, and half-inch drywall is the standard accepted assembly.
 
-Where a space is not normally lived in, an attic or a crawl space for instance, a tested ignition barrier of lesser thickness will usually satisfy the requirement.
+Where a space is not normally lived in, an attic or a crawl space, a tested ignition barrier of lesser thickness will usually satisfy the requirement.
 
-If a quote you are comparing does not mention this at all, ask about it. It is a real line item and it belongs in the budget from the start rather than showing up after the foam is in.
+If a quote you are comparing does not mention this, ask. It is a real line item.
 
 ## What The Ontario Building Code Asks For Now
 
-Leamington is in Climate Zone 1 for the purposes of SB-12. The 2024 code has been in force since January 2025 and it moved the numbers up across the board.
+The 2024 code has been in force since January 2025. For a new build in this zone with high efficiency heating, the current figures are roughly R-50 for a ceiling with an attic, R-31 without one, R-24 above grade walls and R-20 basement walls.
 
-For a new build with high efficiency heating, the current figures are around R-50 for a ceiling with an attic, R-31 for a ceiling without one, R-24 for above grade walls and R-20 for basement walls.
+Basement walls nearly doubled, from R-12. That is the change that most often sends a builder toward foam.
 
-The 2024 update also puts far more weight on blower door results and on modelling the building as a whole than on nominal R-value by itself. That is the strongest argument for foam on a new build, because a batt assembly that hits the R-value can still fail the blower door test.
-
-Figures vary by compliance package and heating equipment. Always defer to the building department.
+Figures vary by compliance package and equipment. Always defer to the building department.
 
 ## The Rebate That Is Live Right Now
 
-The Home Renovation Savings Program is the current one, run by Save on Energy with Enbridge Gas. It is scheduled to run to 30 November 2026.
+The Home Renovation Savings Program runs to 30 November 2026, delivered by Save on Energy with Enbridge Gas.
 
-There is a standalone attic insulation rebate that does not need an energy assessment first. There is also a larger multi-measure stream that does require a pre-work and post-work assessment. Those two get confused constantly, and being told to book an audit when you only want the attic done costs you money for nothing.
+There is a standalone attic stream that needs no energy assessment, and a larger multi-measure stream that requires one before work starts. Those two get confused constantly, and being sent for an audit when you only want the attic done wastes your money.
 
-We are not the program administrator and we do not quote amounts, because the numbers move and the terms differ by heating type and scope. We will tell you which stream your job fits and point you at the current terms.
+We are not the program administrator and we do not quote amounts. We will tell you which stream your job fits.
 
 ## Why Choose Leamington Spray Foam Insulation?
 
-We work in Leamington and south Essex County. Not the whole province, not from an hour away.
+We install to CAN/ULC S705.2 using material meeting S705.1. Ask anyone quoting you which standard they spray to and see what answer comes back.
 
-We install to CAN/ULC S705.2, the installation standard, using material that meets S705.1. Ask anyone quoting you which standard they spray to and see what answer you get.
+Quotes are written and name the product and the installed thickness, not just a total. The number does not move unless the scope does.
 
-Quotes are written, and they name the product and the installed thickness rather than just a total. The number does not move afterwards unless you change the scope.
+We take moisture readings before spraying. If the honest answer is drainage rather than insulation, we say so and decline the job.
 
-We take moisture readings before we spray. If the answer is drainage rather than insulation, we say so and we do not take the job.
+One local crew, not a franchise sending someone from an hour away.
 
-## Serving Leamington, Kingsville And South Essex County
+## Serving Leamington And South Essex County
 
-Leamington, from the marina and Seacliff up through the older streets around Erie Street and Talbot, out along Seacliff Drive and Robson Road, and down toward Point Pelee.
-
-The hamlets in the municipality too, since amalgamation with Mersea put them all inside the same boundary. Albuna, Blytheswood, Mount Carmel, Wigle, Sturgeon Woods and Marentette Beach.
+Leamington and the hamlets inside the municipality, including Albuna, Blytheswood, Mount Carmel and out toward Point Pelee.
 
 Kingsville, Ruthven and Cottam to the west. Essex, Harrow and McGregor beyond that. Staples and Comber to the north.
 
@@ -186,35 +172,36 @@ This site is sponsored by a [drywall contractor](https://www.santanvalleystuccor
 
 ## Frequently Asked Questions
 
-### Why does my basement smell worse in summer than in winter?
-
-Because the problem is humidity, not cold. Leamington has some of the dampest summer air in Ontario. That warm wet air moves inward through the foundation and condenses on the first cool surface it reaches, which is usually the back of the insulation against the concrete.
-
-Winter dries a house out. Summer loads it up. If the smell is seasonal and it peaks in July and August, you are looking at inward vapour drive rather than a leak.
-
 ### Can spray foam fix a basement that takes water?
 
-It cannot. Foam controls air and vapour. It is not a waterproofing product, standing water under pressure goes straight past it, and it replaces nothing that drainage does.
+It cannot, and an installer who tells you otherwise wants the sale more than the outcome. Foam controls air and vapour. Standing water under pressure goes straight past it, and it replaces nothing that drainage does.
 
-Where water is still coming in, the outside gets sorted first. Ground falling away from the wall, downspouts discharging well clear, weeping tile actually running. Insulation comes after that. We will decline a job rather than bury a leak behind foam.
+Where water is still coming in, the outside gets sorted first. Ground falling away from the wall, downspouts discharging well clear, weeping tile actually running. Insulation comes after that.
 
-### Do I have to cover spray foam with drywall?
+### Does spray foam have to be covered with drywall?
 
-In an occupied space, yes. The code requires a thermal barrier over exposed foam and half-inch drywall is the standard way to do it. In an attic or crawl space that is not normally occupied, a thinner tested ignition barrier is often acceptable instead.
+In occupied space, yes. The code requires a thermal barrier over exposed foam and half-inch drywall is the standard assembly. In an attic or crawl space, a tested ignition barrier of lesser thickness will usually do.
 
-Get this priced into the job at the start. It is one of the more common surprises on a cheap quote.
+Get it priced in at the start. It is one of the more common surprises on a cheap quote.
 
 ### How long does the smell last after installation?
 
-Properly mixed foam is cured and off-gassing has stopped by the time we hand the space back, usually within a day for residential work. We will give you a re-occupancy time for your specific job before we start.
+Properly mixed foam has finished curing and off-gassing by the time we hand the space back, usually the same day for residential work.
 
-A chemical smell that hangs around for weeks is a sign of off-ratio foam, which means the two components were not mixed correctly. That does not fix itself and it cannot be sprayed over. It has to come out.
+A chemical smell that lingers for weeks means off-ratio foam, where the two components were not mixed correctly. That does not cure out and cannot be sprayed over. It has to come out.
+
+### Why does my basement smell worse in summer than in winter?
+
+Because the problem is humidity, not cold. Warm outdoor air carries a lot of moisture, moves inward through the foundation, and condenses on the first cool surface it finds, usually the concrete behind the insulation.
+
+Winter dries a house out. Summer loads it up. Being this close to Lake Erie makes it more pronounced than it would be inland.
 
 ### Can you insulate a greenhouse?
 
-Not the glazing, no, and anyone offering to is not doing you a favour. What we insulate on a greenhouse site is the headhouse, the packing and grading areas, cold storage, boiler rooms, north gable ends and the perimeter curtain wall below bench height.
+Not the glazing. Foam is opaque and the structure exists to let light in.
 
-Those are the parts that lose heat without costing you light, and on a heated range the perimeter work in particular pays back quickly.
+We insulate the headhouse, packing and grading rooms, cold storage, boiler rooms, north gable ends and the perimeter curtain wall below bench height. On a heated range the perimeter work usually has the shortest payback on the site.
+
 
 ---
 
@@ -238,9 +225,9 @@ Both work. Doing half of one and half of the other does not, and we see that fai
 
 ## Summer Heat, Not Just Winter Heat
 
-In most of Ontario an attic upgrade is sold on winter heating. Here it earns at least as much in August.
+Attic work is usually sold on winter heating. It earns at least as much in August.
 
-A dark roof on a still July afternoon in Leamington can run far hotter than the air temperature. That heat drives down into the top floor and your air conditioning fights it all afternoon and into the evening. Sealing the ceiling plane properly makes upstairs bedrooms usable on the nights the lake does not cool things off.
+A dark roof on a still afternoon runs far hotter than the air temperature, and that heat drives down into the top floor while the air conditioning fights it. Sealing the ceiling plane properly is what makes upstairs bedrooms usable on the nights the lake breeze does not arrive.
 
 ## The Gaps That Actually Leak
 
@@ -310,19 +297,19 @@ Tell us whether there is a room above it, whether it is attached, and what you u
 
 ## Basement Insulation
 
-A Leamington basement has two things working against it. It is surrounded by clay that holds water, and it spends four months of the year with warm humid air pressing in from outside.
+Closed cell spray foam applied straight onto the foundation wall does three jobs at once. It insulates, it seals the air, and at the right thickness it is its own vapour control layer.
 
-Closed cell spray foam applied straight onto the foundation wall deals with both at once. It insulates, it seals the air, and at the right thickness it is its own vapour control layer.
+That combination is what a basement wall needs. Heavy clay soil and humid summers make it more important here than in most of the province, but the assembly is the same one we would specify anywhere.
 
 ## The Batt And Poly Wall Is The One That Fails Here
 
 This is the assembly we are called out to replace more than any other.
 
-Studs get framed a couple of inches off the foundation, batts go in between them, poly goes over the front, drywall goes on top. It looks finished. Behind it there is a gap of still air against cold damp concrete.
+Studs get framed a couple of inches off the foundation, batts go in between, poly goes over the front, drywall on top. It looks finished. Behind it sits a gap of still air against cold damp concrete.
 
-In our summers, humid air finds that gap through the block and condenses on the concrete face. The batt gets damp, the poly holds the water in, and nothing dries. The first sign is usually a smell in August, and by the time it is visible the drywall has to come off.
+Humid air finds that gap through the block and condenses on the concrete face. The batt gets damp, the poly holds the water in, and nothing dries out. The first sign is a smell, and by the time it is visible the drywall has to come off.
 
-Foam removes the gap. There is nothing behind it for air to reach.
+Foam removes the gap entirely. There is nothing behind it for air to reach.
 
 ## The Code Number Moved A Long Way
 
@@ -354,17 +341,17 @@ Bring us the smell, the damp patch, the cold floor above, or just the plan to fi
 
 ## Crawl Space Insulation
 
-South of Leamington, out toward Point Pelee, Marentette Beach, Sturgeon Woods and the Hillman area, a lot of houses sit over crawl spaces instead of full basements. Much of that land was marsh before it was drained, and the water table is close under your feet.
+Crawl spaces cause more comfort complaints than anything else we deal with, and almost all of them come down to one design assumption that no longer holds.
 
-Those crawl spaces cause more comfort complaints than anything else we see locally, and almost all of them come down to the same design assumption.
+Plenty of houses south of town sit on a crawl space rather than a full basement, so this is a job we do a lot of.
 
-## Vented Crawl Spaces Do Not Work Here
+## Why Venting Backfires
 
-Nearly every older crawl space in the area was built with vents in the perimeter wall. The idea was that outside air moving through would keep the space dry.
+Older crawl spaces were built with vents in the perimeter wall, on the theory that moving air would keep the space dry.
 
-That works in a dry climate. In the most humid corner of Ontario it does the opposite. All summer you are drawing warm damp lake air into a cool space under the floor, where it hits joists and ductwork and condenses on them.
+That holds in a dry climate. In a humid one it does the opposite: you spend the summer drawing damp air into a cool space where it hits joists and ductwork and condenses on them. Being a few minutes from Lake Erie makes that worse, not better.
 
-The result is the smell coming up through the floor, cold damp floorboards over the crawl space, and joists that take on moisture every year.
+The result is a smell coming up through the floor, cold damp boards overhead, and framing that takes on moisture every year.
 
 ## Sealed, Not Vented
 
@@ -376,9 +363,9 @@ Floors get noticeably warmer, the smell goes, and the framing stops cycling wet 
 
 ## Access Is Most Of The Cost
 
-A crawl space quote is driven more by headroom and hatch size than by square footage.
+A crawl space quote is driven more by headroom and hatch size than by floor area.
 
-Eighteen inches of clearance, a hatch through a closet floor, and ducting in the way is a slow, physical day for a crew. The same area in a four-foot crawl with an exterior door is a different job at a different price. We would rather see it than guess at it.
+Eighteen inches of clearance, a hatch through a closet floor and ducting in the way makes for a slow, physical day. The same square footage in a four-foot crawl with an exterior door is a different job at a different price. We would rather see it than guess.
 
 ## What We Check Before Quoting
 
@@ -398,9 +385,9 @@ Send a photo of the hatch and tell us roughly how much headroom there is. That t
 
 ## New Construction Insulation
 
-If you are building in Leamington, the insulation decision has changed since the 2024 code came into force. The R-values went up and, more importantly, the emphasis moved toward airtightness and whole-building performance.
+The insulation decision changed when the 2024 code came into force. The R-values went up and, more importantly, the emphasis moved toward airtightness and whole-building performance.
 
-Spray foam suits that shift because it does the air sealing and the insulating in one operation rather than relying on a separate membrane installed perfectly.
+Spray foam suits that shift because it does the air sealing and the insulating in one operation, rather than relying on a separate membrane being installed perfectly.
 
 ## What Changed In The 2024 Code
 
@@ -422,7 +409,7 @@ Below grade and at rim joists we would still go full closed cell.
 
 Rim joists, cantilevers, the floor over an unheated garage, brick ledges, and any wall assembly that has to hit a blower door target. Those are the places where nothing else does the job as reliably.
 
-On a Leamington site there is one more. Closed cell bonded to the sheathing adds real racking strength, and this is the most tornado-prone corner of the country.
+There is one more worth knowing. Closed cell bonded to the sheathing adds real racking strength, which counts for something in the most tornado-prone corner of the country.
 
 ## Fitting Into The Schedule
 
@@ -488,17 +475,17 @@ Photos help enormously here, especially of an attic hatch or a crawl space. Send
 
 ## Commercial and Cold Storage Insulation
 
-Leamington runs on food. Processing, packing, refrigerated storage and the buildings that support them, from the Highbury Canco plant through to the shops and warehouses along Erie Street and out on the Talbot Street corridor.
+Commercial buildings have a different insulation problem to a house. They are large, often steel framed, and usually holding a temperature a long way from the outside air.
 
-Those buildings have a different insulation problem to a house. They are usually large, often steel framed, and frequently holding a temperature that is a long way from the outside air.
+Around here that mostly means food: processing, packing and refrigerated storage, plus the shops and warehouses that serve them.
 
 ## Cold Storage Is A Vapour Problem First
 
-A refrigerated room in a Leamington summer has the largest vapour drive of any building in town. Outside it is thirty degrees and humid. Inside it is a few degrees above freezing. That difference pushes water toward the cold side constantly.
+A refrigerated room has the largest vapour drive of any building on a site. Thirty degrees and humid outside, a few degrees above freezing inside, and that difference pushes water toward the cold side constantly.
 
-If it gets into the assembly it condenses, then freezes. Once ice forms in an insulation layer it stops insulating and starts damaging the structure around it.
+If it reaches the assembly it condenses, then freezes. Once ice forms inside an insulation layer it stops insulating and starts damaging the structure around it.
 
-Closed cell foam is a continuous air and vapour barrier as well as an insulation layer, which is why it is used so widely in this application. There is no seam for the vapour to find.
+Closed cell foam is a continuous air and vapour barrier as well as insulation, with no seam for vapour to find. That is why it dominates this application.
 
 ## Steel Buildings And Thermal Bridging
 
@@ -528,9 +515,9 @@ Tell us the building, what it holds and what temperature you are trying to keep.
 
 ## Greenhouse and Agricultural Insulation
 
-There are close to two thousand acres of commercial greenhouse around Leamington, the largest concentration anywhere in North America. Add the barns, shops and storage buildings across Mersea and out toward Blytheswood and Albuna, and agriculture is most of what gets built here.
+We insulate the parts of a growing operation that should be insulated, and we are straight with growers about the parts that should not be.
 
-We insulate the parts of those operations that should be insulated, and we are straight with growers about the parts that should not be.
+That is worth saying plainly in a town with close to two thousand acres under glass, where plenty of people have been sold the wrong thing.
 
 ## We Do Not Insulate Glazing
 
@@ -574,19 +561,19 @@ Tell us the range size, how it is heated and which buildings are on the site. We
 
 # About Leamington Spray Foam Insulation
 
-## Built Around Leamington Houses And Leamington Weather
+## What We Do
 
-We are an insulation contractor working in Leamington and south Essex County. That is the whole service area. We are not driving down from London or across from another county to fit you in.
+We are an insulation contractor. Attics, basements, crawl spaces, garages, new builds, greenhouses and commercial buildings, using closed cell and open cell spray foam.
 
-It is not a small distinction. Buildings in this county fail in the same handful of ways, and after enough of them you stop guessing and start recognising. Clay that holds water. A high water table. Crawl spaces on ground that used to be marsh. And four months a year when the outdoor air carries more moisture than anywhere else in the province.
+We work in Leamington and south Essex County and nowhere else. Buildings in one county tend to fail in the same handful of ways, and after enough of them you stop guessing and start recognising.
 
-## Why We Talk About Summer So Much
+## We Talk About Vapour More Than Most
 
-Most insulation companies sell winter. Heat loss, drafts, furnace bills. All of that is real here too.
+Most insulation companies sell winter. Heat loss, drafts, furnace bills. All of that is real.
 
-But Leamington is the warmest place in Canada with the longest frost-free season, and a good share of the failures we are called out to look at happen in July rather than January. Damp foundation walls behind new drywall. Musty crawl spaces. Batts that have quietly taken on water for years.
+But a good share of the failures we are called to look at happen in July rather than January. Damp foundation walls behind new drywall. Musty crawl spaces. Batts that have quietly taken on water for years.
 
-Every one of those is warm humid air moving inward and finding somewhere cool to condense. If a quote you are comparing does not mention vapour at all, it was written for a different climate.
+Every one of those is warm humid air moving inward and condensing on something cool. Being this close to Lake Erie makes it more pronounced, but the mechanism is the same everywhere. If a quote you are comparing does not mention vapour control at all, ask why.
 
 ## Ask Whoever Quotes You Which Standard They Spray To
 
