@@ -419,19 +419,28 @@ a:hover { color: var(--color-accent-dark); }
 }
 .hero--home .btn-row { justify-content: center; margin-top: var(--space-6); }
 
-/* Badges: a ruled ledger under the headline, not pills. */
+/* Badges: one centred row under the headline, not pills.
+   This was a three-column auto-fit grid. Each item centred inside its own
+   column, but the columns filled the container, so the three read as spread
+   across the page rather than as a centred group. A wrapping flex row sizes
+   each item to its content and centres the group as a whole. The rule moved
+   from the individual items to the list, so there is one line above the set
+   instead of three uneven ones. */
 .hero__badges {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
-  gap: 0 var(--space-6);
-  margin: var(--space-6) 0 0; padding: 0; list-style: none;
-  max-width: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-3) var(--space-6);
+  max-width: 70ch;
+  margin: var(--space-6) auto 0;
+  padding: var(--space-4) 0 0;
+  border-top: var(--rule) solid var(--color-on-dark-rule);
+  list-style: none;
 }
 .hero__badges li {
-  display: flex; align-items: baseline; justify-content: center;
+  display: flex; align-items: baseline;
   gap: var(--space-3);
-  margin: 0; padding: var(--space-3) 0;
-  border-top: var(--rule) solid var(--color-on-dark-rule);
+  margin: 0; padding: 0; border: 0;
   font-size: var(--fs-sm); font-weight: 700;
   color: var(--color-on-dark);
 }
