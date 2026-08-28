@@ -27,3 +27,11 @@ Caledon Storefront.png
 
 # The business card is not a website image and there is no slot for it.
 Leamington Spray Foam Business Card.png
+
+# Orphaned build artifact. build.py exports the social share graphic at 1200px
+# as both webp and jpg, renames the jpg to og-image.jpg, then deletes the webp
+# because og:image has to be a jpg. On this mounted drive that delete fails
+# with "Operation not permitted", so the file survives every build. Nothing
+# references it - og:image points at og-image.jpg - so it is ignored rather
+# than committed. Deleting it by hand in File Explorer also works.
+site/images/og-image-1200.webp

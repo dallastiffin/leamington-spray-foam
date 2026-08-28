@@ -47,7 +47,7 @@
 <link rel="preload" as="image" href="images/hero-leamington-1200.jpg"
       imagesrcset="images/hero-leamington-800.webp 800w, images/hero-leamington-1200.webp 1200w"
       imagesizes="100vw" type="image/webp">
-<link rel="stylesheet" href="style.css?v=f7f4ab1d">
+<link rel="stylesheet" href="style.css?v=7f96661b">
 <script src="script.js?v=078453e1" defer></script>
 
 <!-- ===== Schema.org: Local Business ===== -->
@@ -261,8 +261,8 @@
 <!-- ============================= TOP UTILITY BAR ============================= -->
 <div class="topbar">
   <div class="container topbar__inner">
-    <p style="margin:0;">Serving Leamington, Kingsville, Cottam, Essex &amp; across south Essex County</p>
-    <p style="margin:0;">Free written estimates &middot; <a href="tel:+12262865239">(226) 286-5239</a></p>
+    <p>Serving Leamington, Kingsville, Cottam, Essex &amp; across south Essex County</p>
+    <p>Free written estimates &middot; <a href="tel:+12262865239">(226) 286-5239</a></p>
   </div>
 </div>
 
@@ -318,27 +318,6 @@
 <!-- ============================= HERO ============================= -->
 <section class="hero hero--home" aria-labelledby="hero-heading">
 
-  <!-- Background photograph. Decorative here, so it carries an empty alt and
-       is hidden from assistive tech - the headline conveys the meaning. -->
-  <div class="hero__bg" aria-hidden="true">
-    <picture>
-      <source type="image/webp"
-              srcset="images/hero-leamington-800.webp 800w, images/hero-leamington-1200.webp 1200w"
-              sizes="100vw">
-      <img src="images/hero-leamington-1200.jpg"
-           srcset="images/hero-leamington-800.jpg 800w, images/hero-leamington-1200.jpg 1200w"
-           sizes="100vw" alt="" width="1200" height="900"
-           fetchpriority="high" decoding="async">
-    </picture>
-  </div>
-
-  <!-- Solid scrim over the photograph.
-       The other sites in this network set white hero text directly on the
-       photo and lean on a layered text-shadow for legibility. WCAG gives no
-       credit for text shadows, so over the bright part of an image that text
-       is below 4.5:1 no matter how heavy the shadow. This scrim is a measured
-       overlay instead, so the contrast figures in style.css are real. -->
-  <div class="hero__scrim" aria-hidden="true"></div>
 
   <div class="container hero__inner">
 
@@ -351,7 +330,7 @@
     <div class="hero__intro">
       <h1 id="hero-heading">Spray Foam Insulation In Leamington, Ontario</h1>
       <ul class="hero__badges">
-        <li>Installed to CAN/ULC S705.2</li>
+        <li>Closed cell and open cell foam</li>
         <li>Homes, greenhouses and packhouses</li>
         <li>Fixed written quotes</li>
       </ul>
@@ -360,6 +339,22 @@
         <a class="btn btn--ghost btn--lg" href="#hero-quote">Get a Free Quote</a>
       </div>
     </div>
+  </div>
+
+  <!-- The photograph runs as a band BENEATH the masthead rather than behind
+       it. No type sits on it, so there is no scrim, no text-shadow and no
+       contrast risk - and swapping in a lighter photo later cannot break
+       legibility. Decorative, so empty alt inside an aria-hidden wrapper. -->
+  <div class="hero__bg" aria-hidden="true">
+    <picture>
+      <source type="image/webp"
+              srcset="images/hero-leamington-800.webp 800w, images/hero-leamington-1200.webp 1200w"
+              sizes="100vw">
+      <img src="images/hero-leamington-1200.jpg"
+           srcset="images/hero-leamington-800.jpg 800w, images/hero-leamington-1200.jpg 1200w"
+           sizes="100vw" alt="" width="1200" height="900"
+           fetchpriority="high" decoding="async">
+    </picture>
   </div>
 </section>
 
@@ -488,8 +483,8 @@
   <div class="container container--narrow prose">
     <span class="eyebrow">Why Us</span>
     <h2 id="why-heading">Why Choose Leamington Spray Foam Insulation?</h2>
-    <p>We install to CAN/ULC S705.2 using material meeting S705.1. Ask anyone quoting you which standard they spray to and see what answer comes back.</p>
     <p>Quotes are written and name the product and the installed thickness, not just a total. The number does not move unless the scope does.</p>
+    <p>If the code wants drywall or an ignition barrier over the foam, that cost is on the quote from the start rather than turning up after the work is done.</p>
     <p>We take moisture readings before spraying. If the honest answer is drainage rather than insulation, we say so and decline the job.</p>
     <p>One local crew, not a franchise sending someone from an hour away.</p>
     <div class="btn-row">
@@ -518,7 +513,7 @@
           </picture>
         </div>
         <div class="service-card__body">
-          <h3><a href="/attic-insulation" style="text-decoration:none;color:inherit;">Attic Insulation</a></h3>
+          <h3><a href="/attic-insulation">Attic Insulation</a></h3>
           <p>An attic is the cheapest comfort you can buy in most Leamington houses, and it is usually the first thing we look at. Warm indoor air rises, finds every gap in the ceiling, and takes moisture with it on the way out.</p>
           <a class="service-card__link" href="/attic-insulation">View Attic Insulation</a>
         </div>
@@ -532,7 +527,7 @@
           </picture>
         </div>
         <div class="service-card__body">
-          <h3><a href="/garage-insulation" style="text-decoration:none;color:inherit;">Garage Insulation</a></h3>
+          <h3><a href="/garage-insulation">Garage Insulation</a></h3>
           <p>Most calls about a cold garage in Leamington are really calls about something attached to it. The bedroom above it, or the kitchen wall it shares with the house.</p>
           <a class="service-card__link" href="/garage-insulation">View Garage Insulation</a>
         </div>
@@ -546,7 +541,7 @@
           </picture>
         </div>
         <div class="service-card__body">
-          <h3><a href="/basement-insulation" style="text-decoration:none;color:inherit;">Basement Insulation</a></h3>
+          <h3><a href="/basement-insulation">Basement Insulation</a></h3>
           <p>Closed cell spray foam applied straight onto the foundation wall does three jobs at once. It insulates, it seals the air, and at the right thickness it is its own vapour control layer.</p>
           <a class="service-card__link" href="/basement-insulation">View Basement Insulation</a>
         </div>
@@ -560,7 +555,7 @@
           </picture>
         </div>
         <div class="service-card__body">
-          <h3><a href="/crawl-spaces-insulation" style="text-decoration:none;color:inherit;">Crawl Space Insulation</a></h3>
+          <h3><a href="/crawl-spaces-insulation">Crawl Space Insulation</a></h3>
           <p>Crawl spaces cause more comfort complaints than anything else we deal with, and almost all of them come down to one design assumption that no longer holds.</p>
           <a class="service-card__link" href="/crawl-spaces-insulation">View Crawl Space Insulation</a>
         </div>
@@ -574,7 +569,7 @@
           </picture>
         </div>
         <div class="service-card__body">
-          <h3><a href="/new-construction-insulation" style="text-decoration:none;color:inherit;">New Construction Insulation</a></h3>
+          <h3><a href="/new-construction-insulation">New Construction Insulation</a></h3>
           <p>The insulation decision changed when the 2024 code came into force. The R-values went up and, more importantly, the emphasis moved toward airtightness and whole-building performance.</p>
           <a class="service-card__link" href="/new-construction-insulation">View New Construction Insulation</a>
         </div>
@@ -588,7 +583,7 @@
           </picture>
         </div>
         <div class="service-card__body">
-          <h3><a href="/insulation-removal-service" style="text-decoration:none;color:inherit;">Insulation Removal</a></h3>
+          <h3><a href="/insulation-removal-service">Insulation Removal</a></h3>
           <p>Insulation does not last forever, and in a damp climate it often does not last as long as people expect. When the existing material is wet, mouldy, rodent damaged or flattened, it has to come out before anything new goes in.</p>
           <a class="service-card__link" href="/insulation-removal-service">View Insulation Removal</a>
         </div>
@@ -602,7 +597,7 @@
           </picture>
         </div>
         <div class="service-card__body">
-          <h3><a href="/commercial-insulation" style="text-decoration:none;color:inherit;">Commercial and Cold Storage Insulation</a></h3>
+          <h3><a href="/commercial-insulation">Commercial and Cold Storage Insulation</a></h3>
           <p>Commercial buildings have a different insulation problem to a house. They are large, often steel framed, and usually holding a temperature a long way from the outside air.</p>
           <a class="service-card__link" href="/commercial-insulation">View Commercial and Cold Storage Insulation</a>
         </div>
@@ -616,7 +611,7 @@
           </picture>
         </div>
         <div class="service-card__body">
-          <h3><a href="/greenhouse-insulation" style="text-decoration:none;color:inherit;">Greenhouse and Agricultural Insulation</a></h3>
+          <h3><a href="/greenhouse-insulation">Greenhouse and Agricultural Insulation</a></h3>
           <p>We insulate the parts of a growing operation that should be insulated, and we are straight with growers about the parts that should not be.</p>
           <a class="service-card__link" href="/greenhouse-insulation">View Greenhouse and Agricultural Insulation</a>
         </div>
@@ -789,7 +784,7 @@
         <div class="card">
           <h3 id="sidebar-heading">Talk To The Installer</h3>
           <p>A single visit, meter readings taken off the concrete, and a price that names the product and the depth it assumes.</p>
-          <p><a class="footer-phone" style="color:var(--color-accent-dark) !important;" href="tel:+12262865239">(226) 286-5239</a></p>
+          <p><a class="footer-phone" href="tel:+12262865239">(226) 286-5239</a></p>
           <div class="btn-row">
             <a class="btn btn--primary btn--block" href="#quote">Get a Free Quote</a>
             <a class="btn btn--outline btn--block" href="/contact-us">Contact Us Today</a>
@@ -798,7 +793,7 @@
         <div class="panel" style="margin-top:var(--space-5);">
           <h3>Our Services</h3>
           <ul class="footer-list" style="padding:0;">
-            <li><a href="/attic-insulation" style="color:var(--color-primary-light);">Attic Insulation</a></li><li><a href="/garage-insulation" style="color:var(--color-primary-light);">Garage Insulation</a></li><li><a href="/basement-insulation" style="color:var(--color-primary-light);">Basement Insulation</a></li><li><a href="/crawl-spaces-insulation" style="color:var(--color-primary-light);">Crawl Space Insulation</a></li><li><a href="/new-construction-insulation" style="color:var(--color-primary-light);">New Construction Insulation</a></li><li><a href="/insulation-removal-service" style="color:var(--color-primary-light);">Insulation Removal</a></li><li><a href="/commercial-insulation" style="color:var(--color-primary-light);">Commercial and Cold Storage Insulation</a></li><li><a href="/greenhouse-insulation" style="color:var(--color-primary-light);">Greenhouse and Agricultural Insulation</a></li>
+            <li><a href="/attic-insulation">Attic Insulation</a></li><li><a href="/garage-insulation">Garage Insulation</a></li><li><a href="/basement-insulation">Basement Insulation</a></li><li><a href="/crawl-spaces-insulation">Crawl Space Insulation</a></li><li><a href="/new-construction-insulation">New Construction Insulation</a></li><li><a href="/insulation-removal-service">Insulation Removal</a></li><li><a href="/commercial-insulation">Commercial and Cold Storage Insulation</a></li><li><a href="/greenhouse-insulation">Greenhouse and Agricultural Insulation</a></li>
           </ul>
         </div>
       </aside>
@@ -1099,7 +1094,7 @@
     </div>
 
     <div class="footer-bottom">
-      <p style="margin:0;">&copy; <span data-year>2026</span> Leamington Spray Foam Insulation. All rights reserved.</p>
+      <p>&copy; <span data-year>2026</span> Leamington Spray Foam Insulation. All rights reserved.</p>
       <ul class="footer-legal">
         <li><a href="/privacy-policy">Privacy Policy</a></li>
         <li><a href="/terms">Terms &amp; Conditions</a></li>

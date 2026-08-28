@@ -559,8 +559,8 @@ def header(active):
 <!-- ============================= TOP UTILITY BAR ============================= -->
 <div class="topbar">
   <div class="container topbar__inner">
-    <p style="margin:0;">Serving {TOPBAR_AREA}</p>
-    <p style="margin:0;">Free written estimates &middot; <a href="tel:{PHONE_HREF}">{PHONE_DISPLAY}</a></p>
+    <p>Serving {TOPBAR_AREA}</p>
+    <p>Free written estimates &middot; <a href="tel:{PHONE_HREF}">{PHONE_DISPLAY}</a></p>
   </div>
 </div>
 
@@ -792,7 +792,7 @@ SIDEBAR = f"""
         <div class="card">
           <h3 id="sidebar-heading">{esc(sc("Sidebar Heading"))}</h3>
           <p>{esc(sc("Sidebar Text"))}</p>
-          <p><a class="footer-phone" style="color:var(--color-accent-dark) !important;" href="tel:{PHONE_HREF}">{PHONE_DISPLAY}</a></p>
+          <p><a class="footer-phone" href="tel:{PHONE_HREF}">{PHONE_DISPLAY}</a></p>
           <div class="btn-row">
             <a class="btn btn--primary btn--block" href="#quote">Get a Free Quote</a>
             <a class="btn btn--outline btn--block" href="contact.html">Contact Us Today</a>
@@ -801,7 +801,7 @@ SIDEBAR = f"""
         <div class="panel" style="margin-top:var(--space-5);">
           <h3>Our Services</h3>
           <ul class="footer-list" style="padding:0;">
-            {"".join(f'<li><a href="{s}" style="color:var(--color-primary-light);">{esc(t)}</a></li>' for s, t, _ in SERVICE_PAGES)}
+            {"".join(f'<li><a href="{s}">{esc(t)}</a></li>' for s, t, _ in SERVICE_PAGES)}
           </ul>
         </div>
       </aside>
@@ -877,7 +877,7 @@ def footer():
 {map_block}
 
     <div class="footer-bottom">
-      <p style="margin:0;">&copy; <span data-year>2026</span> {BUSINESS}. All rights reserved.</p>
+      <p>&copy; <span data-year>2026</span> {BUSINESS}. All rights reserved.</p>
       <ul class="footer-legal">
         <li><a href="privacy-policy.html">Privacy Policy</a></li>
         <li><a href="terms.html">Terms &amp; Conditions</a></li>
@@ -986,7 +986,7 @@ def services_grid(exclude=None, heading=None, intro=None):
          "(max-width: 620px) 92vw, (max-width: 1024px) 45vw, 340px", indent="          ")}
         </div>
         <div class="service-card__body">
-          <h3><a href="{slug}" style="text-decoration:none;color:inherit;">{esc(title)}</a></h3>
+          <h3><a href="{slug}">{esc(title)}</a></h3>
           <p>{esc(blurb)}</p>
           <a class="service-card__link" href="{slug}">View {esc(title)}</a>
         </div>
@@ -1369,27 +1369,6 @@ home += f"""
 <!-- ============================= HERO ============================= -->
 <section class="hero hero--home" aria-labelledby="hero-heading">
 
-  <!-- Background photograph. Decorative here, so it carries an empty alt and
-       is hidden from assistive tech - the headline conveys the meaning. -->
-  <div class="hero__bg" aria-hidden="true">
-    <picture>
-      <source type="image/webp"
-              srcset="images/{HERO_IMG}-800.webp 800w, images/{HERO_IMG}-1200.webp 1200w"
-              sizes="100vw">
-      <img src="images/{HERO_IMG}-1200.jpg"
-           srcset="images/{HERO_IMG}-800.jpg 800w, images/{HERO_IMG}-1200.jpg 1200w"
-           sizes="100vw" alt="" width="1200" height="900"
-           fetchpriority="high" decoding="async">
-    </picture>
-  </div>
-
-  <!-- Solid scrim over the photograph.
-       The other sites in this network set white hero text directly on the
-       photo and lean on a layered text-shadow for legibility. WCAG gives no
-       credit for text shadows, so over the bright part of an image that text
-       is below 4.5:1 no matter how heavy the shadow. This scrim is a measured
-       overlay instead, so the contrast figures in style.css are real. -->
-  <div class="hero__scrim" aria-hidden="true"></div>
 
   <div class="container hero__inner">
 
@@ -1409,6 +1388,22 @@ home += f"""
         <a class="btn btn--ghost btn--lg" href="#hero-quote">Get a Free Quote</a>
       </div>
     </div>
+  </div>
+
+  <!-- The photograph runs as a band BENEATH the masthead rather than behind
+       it. No type sits on it, so there is no scrim, no text-shadow and no
+       contrast risk - and swapping in a lighter photo later cannot break
+       legibility. Decorative, so empty alt inside an aria-hidden wrapper. -->
+  <div class="hero__bg" aria-hidden="true">
+    <picture>
+      <source type="image/webp"
+              srcset="images/{HERO_IMG}-800.webp 800w, images/{HERO_IMG}-1200.webp 1200w"
+              sizes="100vw">
+      <img src="images/{HERO_IMG}-1200.jpg"
+           srcset="images/{HERO_IMG}-800.jpg 800w, images/{HERO_IMG}-1200.jpg 1200w"
+           sizes="100vw" alt="" width="1200" height="900"
+           fetchpriority="high" decoding="async">
+    </picture>
   </div>
 </section>
 
@@ -1574,7 +1569,7 @@ for idx, (slug, title, short) in enumerate(SERVICE_PAGES):
 <section class="hero hero--page" aria-labelledby="hero-heading">
   <div class="container hero__inner">
     <div class="hero__intro">
-      <span class="eyebrow" style="color:#ffb37a;">{esc(title)}</span>
+      <span class="eyebrow">{esc(title)}</span>
       <h1 id="hero-heading">{esc(sh1)}</h1>
 {over_paras}
       <div class="btn-row">
@@ -1634,7 +1629,7 @@ svc_page += f"""
 <section class="hero hero--page hero--split" aria-labelledby="hero-heading">
   <div class="container hero__inner">
     <div class="hero__intro">
-      <span class="eyebrow" style="color:#ffb37a;">Services</span>
+      <span class="eyebrow">Services</span>
       <h1 id="hero-heading">{esc(sc("Services Page Heading"))}</h1>
       <p>{esc(sc("Services Page Intro"))}</p>
       <div class="btn-row">
@@ -1682,9 +1677,9 @@ about += f"""
 <section class="hero hero--page hero--split" aria-labelledby="hero-heading">
   <div class="container hero__inner">
     <div class="hero__intro">
-      <span class="eyebrow" style="color:#ffb37a;">About Us</span>
+      <span class="eyebrow">About Us</span>
       <h1 id="hero-heading">{esc(ah1)}</h1>
-      <h2 style="color:#fff;font-size:var(--fs-lg);">{esc(about_lead['title'])}</h2>
+      <h2 class="hero-form__title">{esc(about_lead['title'])}</h2>
 {nodes_html([n for n in about_lead['nodes']], "      ")}
       <div class="btn-row">
         <a class="btn btn--primary btn--lg" href="#quote">Get a Free Quote</a>
@@ -1757,7 +1752,7 @@ def _info_value(label, value):
 
 
 info_html = "\n".join(
-    f'        <div><dt style="font-weight:800;color:var(--color-heading);">{esc(l)}</dt>'
+    f'        <div><dt>{esc(l)}</dt>'
     f'<dd style="margin:0 0 var(--space-3);">'
     + _info_value(l, v)
     + '</dd></div>'
@@ -1774,9 +1769,9 @@ contact_page += f"""
 <section class="hero hero--page" aria-labelledby="hero-heading">
   <div class="container hero__inner">
     <div class="hero__intro">
-      <span class="eyebrow" style="color:#ffb37a;">Contact</span>
+      <span class="eyebrow">Contact</span>
       <h1 id="hero-heading">{esc(ch1)}</h1>
-      <h2 style="color:#fff;font-size:var(--fs-lg);">{esc(lead_sec['title'])}</h2>
+      <h2 class="hero-form__title">{esc(lead_sec['title'])}</h2>
 {nodes_html(lead_sec['nodes'], "      ")}
       <div class="btn-row">
         <a class="btn btn--primary btn--lg" href="tel:{PHONE_HREF}">Call Now: {PHONE_DISPLAY}</a>
@@ -1808,7 +1803,7 @@ contact_page += f"""
         <div class="panel" style="margin-top:var(--space-5);">
           <h3>Our Services</h3>
           <ul class="footer-list" style="padding:0;">
-            {"".join(f'<li><a href="{s}" style="color:var(--color-primary-light);">{esc(t)}</a></li>' for s, t, _ in SERVICE_PAGES)}
+            {"".join(f'<li><a href="{s}">{esc(t)}</a></li>' for s, t, _ in SERVICE_PAGES)}
           </ul>
         </div>
       </aside>
@@ -1839,7 +1834,7 @@ faq_page += f"""
 <section class="hero hero--page" aria-labelledby="hero-heading">
   <div class="container hero__inner">
     <div class="hero__intro">
-      <span class="eyebrow" style="color:#ffb37a;">Answers</span>
+      <span class="eyebrow">Answers</span>
       <h1 id="hero-heading">{esc(sc("FAQ Page Heading"))}</h1>
       <p>{esc(sc("FAQ Page Intro"))}</p>
       <div class="btn-row">
@@ -1884,7 +1879,7 @@ def legal_page(slug, title, meta, h1, eyebrow, crumb_label, sections):
 <section class="hero hero--page" aria-labelledby="hero-heading">
   <div class="container hero__inner">
     <div class="hero__intro">
-      <span class="eyebrow" style="color:#ffb37a;">{esc(eyebrow)}</span>
+      <span class="eyebrow">{esc(eyebrow)}</span>
       <h1 id="hero-heading">{esc(h1)}</h1>
       <p>PLACEHOLDER DOCUMENT. This page is a working template for {BUSINESS} and should be
          reviewed by a legal professional before the site goes live.</p>
@@ -2050,7 +2045,7 @@ notfound += f'''
 <section class="hero hero--page" aria-labelledby="hero-heading">
   <div class="container hero__inner">
     <div class="hero__intro">
-      <span class="eyebrow" style="color:#ffb37a;">Error 404</span>
+      <span class="eyebrow">Error 404</span>
       <h1 id="hero-heading">{esc(sc("Not Found Heading"))}</h1>
       <p>{esc(sc("Not Found Text"))}</p>
       <div class="btn-row">

@@ -154,9 +154,9 @@ We are not the program administrator and we do not quote amounts. We will tell y
 
 ## Why Choose Leamington Spray Foam Insulation?
 
-We install to CAN/ULC S705.2 using material meeting S705.1. Ask anyone quoting you which standard they spray to and see what answer comes back.
-
 Quotes are written and name the product and the installed thickness, not just a total. The number does not move unless the scope does.
+
+If the code wants drywall or an ignition barrier over the foam, that cost is on the quote from the start rather than turning up after the work is done.
 
 We take moisture readings before spraying. If the honest answer is drainage rather than insulation, we say so and decline the job.
 
@@ -501,7 +501,7 @@ Roof decks and underside of steel deck. Perimeter walls and gables. Loading dock
 
 ## Covering, Fire Rating And Occupancy
 
-Commercial work brings its own requirements around thermal barriers, ignition barriers and flame spread ratings, and they are stricter than residential in occupied areas. We spray material meeting CAN/ULC S705.1 and install to S705.2, and we will spell out the covering requirement in the quote rather than leaving it for the inspection.
+Commercial work brings its own requirements around thermal barriers, ignition barriers and flame spread ratings, and they are stricter than residential in occupied areas. We will spell out the covering requirement in the quote rather than leaving it for the inspection to raise.
 
 We also work around production. Most of this gets done in a shutdown window or overnight, and that gets planned before the quote is signed.
 
@@ -577,13 +577,13 @@ But a good share of the failures we are called to look at happen in July rather 
 
 Every one of those is warm humid air moving inward and condensing on something cool. Being this close to Lake Erie makes it more pronounced, but the mechanism is the same everywhere. If a quote you are comparing does not mention vapour control at all, ask why.
 
-## Ask Whoever Quotes You Which Standard They Spray To
+## What To Ask Before You Sign Anything
 
-Spray foam is a regulated product with a real standard behind it. Material has to meet CAN/ULC S705.1 and installation has to meet CAN/ULC S705.2. CUFCA is the recognised certifying body in Canada.
+Ask what happens to the foam afterwards. It cannot be left exposed in an occupied space. It needs a thermal barrier over it, and half-inch drywall is the usual way that is done. That is a real cost and it belongs in the quote from the start, not after the foam is in.
 
-Very few homeowners know to ask about this, and very few competitor sites mention it. Ask it of us and ask it of everyone else quoting the job. The answer tells you a lot.
+Ask whether the quote names a product and an installed thickness or just gives you a price. A number on its own tells you nothing about what you are actually getting.
 
-The other thing worth asking is what happens to the foam afterwards. It cannot be left exposed in an occupied space. It needs a thermal barrier over it, and half-inch drywall is the standard assembly. That is a real cost and it belongs in the quote from the start.
+Ask what happens if the space is opened up and there is water in it. The answer should involve stopping and talking to you rather than carrying on and adding it to the invoice.
 
 ## How We Quote
 
@@ -790,7 +790,7 @@ Meta Description: Headhouse, packhouse, gable end and perimeter insulation for L
 
 SEO Title: About Us | Leamington Spray Foam Insulation
 
-Meta Description: A local spray foam installer serving Leamington and south Essex County. Installed to CAN/ULC S705.2 with fixed written quotes. Call (226) 286-5239.
+Meta Description: A local spray foam installer serving Leamington and south Essex County. Written quotes naming the product and the depth. Call (226) 286-5239.
 
 ## Contact Page
 
@@ -810,7 +810,7 @@ Meta Description: Costs, summer damp, rebates, crawl space venting, code coverin
 
 ## Hero Badges
 
-Installed to CAN/ULC S705.2
+Closed cell and open cell foam
 
 Homes, greenhouses and packhouses
 
