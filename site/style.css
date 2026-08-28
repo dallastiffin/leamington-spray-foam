@@ -368,12 +368,13 @@ a:hover { color: var(--color-accent-dark); }
   background: var(--color-primary);
   color: var(--color-white);
   padding-block: var(--space-8);
+  text-align: center;
 }
 .hero__inner { position: relative; z-index: 2; }
 .hero h1 { color: var(--color-white); }
 .hero p { color: var(--color-on-dark); }
 
-/* Masthead: left aligned, asymmetric, no centre axis. */
+/* Masthead: centred on a single axis, brand over place line. */
 .hero__brand {
   margin: 0 0 var(--space-2);
   font-size: clamp(2.1rem, 5.4vw, 3.75rem);
@@ -381,17 +382,23 @@ a:hover { color: var(--color-accent-dark); }
   line-height: 1;
   letter-spacing: -0.04em;
   color: var(--color-white);
-  max-width: 16ch;
+  max-width: 18ch;
+  margin-inline: auto;
 }
+
+/* Place line sits under the name with a short rule either side, so the
+   whole masthead reads as one centred block. */
 .hero__place {
-  display: flex; align-items: center; gap: var(--space-3);
+  display: flex; align-items: center; justify-content: center;
+  gap: var(--space-3);
   margin: 0 0 var(--space-6);
   font-size: var(--fs-sm); font-weight: 800;
   letter-spacing: 0.18em; text-transform: uppercase;
   color: var(--color-on-dark-accent);
 }
+.hero__place::before,
 .hero__place::after {
-  content: ""; flex: 1 1 auto; height: 2px; max-width: 220px;
+  content: ""; flex: none; width: 34px; height: 2px;
   background: currentColor; opacity: .5;
 }
 
@@ -403,14 +410,14 @@ a:hover { color: var(--color-accent-dark); }
    and the masthead broke apart, because .hero__brand and .hero__place became
    the grid items instead. Layout here is driven off the real DOM: one column,
    with the badges as a ruled ledger across the full width. */
-.hero--home .hero__intro { max-width: 62ch; }
+.hero--home .hero__intro { max-width: 62ch; margin-inline: auto; }
 .hero--home .hero__intro h1 {
   font-size: clamp(1.3rem, 2.3vw, 1.65rem);
   font-weight: 600;
   letter-spacing: -0.01em;
   color: var(--color-on-dark);
 }
-.hero--home .btn-row { margin-top: var(--space-6); }
+.hero--home .btn-row { justify-content: center; margin-top: var(--space-6); }
 
 /* Badges: a ruled ledger under the headline, not pills. */
 .hero__badges {
@@ -421,7 +428,8 @@ a:hover { color: var(--color-accent-dark); }
   max-width: none;
 }
 .hero__badges li {
-  display: flex; align-items: baseline; gap: var(--space-3);
+  display: flex; align-items: baseline; justify-content: center;
+  gap: var(--space-3);
   margin: 0; padding: var(--space-3) 0;
   border-top: var(--rule) solid var(--color-on-dark-rule);
   font-size: var(--fs-sm); font-weight: 700;
@@ -445,14 +453,16 @@ a:hover { color: var(--color-accent-dark); }
 
 /* Interior page hero: compact, left aligned, same masthead language. */
 .hero--page { padding-block: var(--space-7); }
-.hero--page .hero__inner { max-width: 74ch; }
-.hero--page .eyebrow { color: var(--color-on-dark-accent); }
+.hero--page .hero__inner { max-width: 74ch; margin-inline: auto; }
+.hero--page .hero__intro p { margin-inline: auto; max-width: 68ch; }
+.hero .eyebrow { justify-content: center; color: var(--color-on-dark-accent); }
 .hero--page h1 { margin-bottom: var(--space-4); }
 
 .hero--split .hero__inner {
   display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr);
   gap: var(--space-7); align-items: center;
 }
+.hero--split .btn-row { justify-content: center; }
 .hero__media img { width: 100%; border: var(--rule-thick) solid var(--color-accent); }
 
 /* ==========================================================================
