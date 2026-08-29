@@ -4,11 +4,11 @@
 
 ## Welcome To Leamington Spray Foam Insulation
 
-Welcome to Leamington [Spray Foam Insulation](http://conroesprayfoaminsulation.com/). We serve homeowners and businesses in Leamington and the surrounding area with the highest quality spray foam insulation service available. Our customers call us when they want the best performing insulation on the market for their homes, offices and buildings.
+Leamington Spray Foam Insulation provides attic insulation, basement insulation and crawl space insulation to the Leamington area.
 
 Spray foam does two jobs at once. It insulates, and it seals the gaps that batt insulation leaves behind. That second job is where most of the comfort and most of the saving comes from.
 
-We insulate attics, walls, basements, crawl spaces, garages, greenhouses and packhouses. Every quote starts with somebody coming out to look at the space.
+We also install garage, new construction, insulation removal, commercial and greenhouse [spray foam insulation](http://conroesprayfoaminsulation.com/). Every quote starts with somebody coming out to look at the space.
 
 ## What Are The Benefits Of Spray Foam Insulation?
 
@@ -44,7 +44,7 @@ This is the part that separates a good [insulation](https://seattleinsulationcom
 
 ## Attic Insulation
 
-Attics are the cheapest comfort in most houses. Heat rises out through the ceiling, and warm damp indoor air goes with it.
+[Attic insulation](attic-insulation.html) is the cheapest comfort in most houses. Heat rises out through the ceiling, and warm damp indoor air goes with it.
 
 [Attic spray foam](http://puyallupsprayfoaminsulation.com/) goes either across the attic floor with the roof left vented, or onto the underside of the roof deck to bring the attic inside the building. Which one depends on how the roof is built and whether there is ducting up there.
 
@@ -52,7 +52,7 @@ Around here it earns its keep in August as much as February. A dark roof drives 
 
 ## Basement Insulation
 
-Closed cell sprayed straight onto the concrete gives you insulation, an air barrier and vapour control in one pass, with no cavity behind it to trap moisture.
+[Basement insulation](basement-insulation.html) done with closed cell sprayed straight onto the concrete gives you an air barrier and vapour control in one pass, with no cavity behind it to trap moisture.
 
 That last part is the point. The usual assembly, studs held off the wall with batts between them and poly over the front, leaves a gap of still air against cold concrete. Humid air finds it and condenses there. You smell it before you see it.
 
@@ -60,7 +60,7 @@ Rim joists come with the job. Small area, large share of the leaking, cheapest s
 
 ## Crawl Space Insulation
 
-Most crawl spaces were built vented, on the theory that outside air would dry them out. In a humid climate it does the opposite.
+Most [crawl spaces](crawl-spaces-insulation.html) were built vented, on the theory that outside air would dry them out. In a humid climate it does the opposite.
 
 Sealing one means closing the vents, sheeting the ground, and foaming the perimeter walls and rim rather than the joists overhead. The space then sits at the same conditions as the house above it.
 
@@ -68,7 +68,7 @@ Floors get warmer, the musty smell goes, and the framing stops cycling wet and d
 
 ## Garage Insulation
 
-Most cold garage complaints are really complaints about the room above it or the wall it shares with the house.
+Most cold [garage insulation](garage-insulation.html) complaints are really complaints about the room above it or the wall it shares with the house.
 
 That shared wall matters most. It separates living space from a room where a vehicle runs and chemicals sit on a shelf, so it needs sealing for air quality as much as comfort.
 
@@ -80,7 +80,7 @@ The 2024 code raised the numbers and put far more weight on measured airtightnes
 
 Foam does the sealing and the insulating in one operation instead of relying on a separate membrane being installed perfectly. Flash and batt is often the sensible middle ground on above grade walls.
 
-Book us at framing stage. The window between rough-in inspection and drywall is tighter than most people expect.
+Book us for [new construction insulation](new-construction-insulation.html) at framing stage. The window between rough-in inspection and drywall is tighter than most people expect.
 
 ## Insulation Removal
 
@@ -88,7 +88,7 @@ We do not spray over insulation that has failed. Foam bonds to whatever is under
 
 Wet, mouldy, rodent damaged or flattened material comes out first. It is quoted separately so you can see what that part costs.
 
-If what you have is dry and doing its job, we will tell you it can stay.
+If what you have is dry and doing its job, we will tell you it can stay. See how [insulation removal](insulation-removal-service.html) works before booking a new install over old material.
 
 ## Greenhouses, Packhouses And Cold Storage
 
@@ -96,7 +96,7 @@ Nobody sprays foam on glazing and we would not suggest it. The building exists t
 
 What does get insulated is everything around the growing area. Headhouses, grading and packing rooms, boiler rooms, cold storage, north gable ends, and perimeter curtain walls below bench height.
 
-With energy curtains handling the roof, the walls become a disproportionate share of the loss, so perimeter work usually pays back fastest. Worth knowing in a town with two thousand acres under glass.
+With energy curtains handling the roof, the walls become a disproportionate share of the loss, so perimeter work usually pays back fastest. Worth knowing in a town with two thousand acres under glass. See our [greenhouse and agricultural insulation](greenhouse-insulation.html) and [commercial and cold storage insulation](commercial-insulation.html) pages for the full scope of that work.
 
 ## Signs Your Insulation Has Stopped Working
 
@@ -160,7 +160,9 @@ If the code wants drywall or an ignition barrier over the foam, that cost is on 
 
 We take moisture readings before spraying. If the honest answer is drainage rather than insulation, we say so and decline the job.
 
-One local crew, not a franchise sending someone from an hour away.
+Lifts are built up rather than one heavy pass, so the foam cures the way it is supposed to.
+
+Read more about how we work on our [about page](about.html).
 
 ## Serving Leamington And South Essex County
 
@@ -168,7 +170,7 @@ Leamington and the hamlets inside the municipality, including Albuna, Blytheswoo
 
 Kingsville, Ruthven and Cottam to the west. Essex, Harrow and McGregor beyond that. Staples and Comber to the north.
 
-Sitting just beyond that boundary? Ring and check. If the travel makes it poor value for you, we will say so rather than quote it.
+Sitting just beyond that boundary? Call and check, or [reach us through the contact page](contact.html). If the travel makes it poor value for you, we will say so rather than quote it.
 
 This site is sponsored by a [drywall contractor](https://www.santanvalleystuccorepair.com/) in Santan Valley.
 
@@ -247,7 +249,7 @@ There is a standalone attic insulation rebate running under the Home Renovation 
 
 ## Book An Attic Assessment
 
-We come out, get into the attic, take readings and tell you what is actually going on up there. Then you get a written quote with the product and the depth on it.
+We come out, get into the attic, take readings and tell you what is actually going on up there. Then you get a written quote with the product and the depth on it. Attic work is one part of the picture — see every service we offer on the [Leamington Spray Foam Insulation home page](index.html).
 
 ---
 
@@ -289,7 +291,7 @@ Around Leamington a lot of these are older pole-frame or block buildings being c
 
 ## Get The Garage Quoted
 
-Tell us whether there is a room above it, whether it is attached, and what you use it for. That is most of what we need to give you a real number.
+Tell us whether there is a room above it, whether it is attached, and what you use it for. That is most of what we need to give you a real number. Garage work is just one item on the list — see the rest on the [Leamington Spray Foam Insulation home page](index.html).
 
 ---
 
@@ -333,7 +335,7 @@ Ground falling away from the wall, downspouts discharging well clear, weeping ti
 
 ## Book A Basement Assessment
 
-Bring us the smell, the damp patch, the cold floor above, or just the plan to finish the space. We will look at it properly before quoting.
+Bring us the smell, the damp patch, the cold floor above, or just the plan to finish the space. We will look at it properly before quoting. For the full range of work we cover, visit the [Leamington Spray Foam Insulation home page](index.html).
 
 ---
 
@@ -377,7 +379,7 @@ If the space is actively wet, that gets fixed before any foam goes in.
 
 ## Book A Crawl Space Look
 
-Send a photo of the hatch and tell us roughly how much headroom there is. That tells us most of what we need before we come out.
+Send a photo of the hatch and tell us roughly how much headroom there is. That tells us most of what we need before we come out. See every service we offer on the [Leamington Spray Foam Insulation home page](index.html).
 
 ---
 
@@ -395,7 +397,7 @@ Spray foam suits that shift because it does the air sealing and the insulating i
 
 Under the current SB-12 numbers for this zone, a new build with high efficiency heating is looking at around R-50 for a ceiling with an attic, R-31 for a ceiling without one, R-24 above grade walls and R-20 for basement walls.
 
-Basement walls nearly doubled. That is the headline change and it is the one that most often sends a builder toward foam, because getting to R-20 with batts means a thicker wall and much more careful detailing.
+Basement walls nearly doubled. That is the headline change and it is the one that most often sends a builder toward foam, because getting to R-20 with batts means a thicker wall and much more careful detailing. See our [basement insulation](basement-insulation.html) page for what that number means for a foundation wall.
 
 Beyond the R-values, the code now weighs measured air leakage far more heavily than it used to. An assembly can hit its nominal R-value and still fail a blower door test.
 
@@ -421,7 +423,7 @@ We will also tell you at quote stage what thermal barrier the code will want ove
 
 ## Talk To Us At Framing Stage
 
-Send the plans and the compliance package. We will tell you what the assembly needs and what it will cost before you are committed to it.
+Send the plans and the compliance package. We will tell you what the assembly needs and what it will cost before you are committed to it. See every service we offer on the [Leamington Spray Foam Insulation home page](index.html).
 
 ---
 
@@ -433,7 +435,7 @@ Send the plans and the compliance package. We will tell you what the assembly ne
 
 Insulation does not last forever, and in a damp climate it often does not last as long as people expect. When the existing material is wet, mouldy, rodent damaged or flattened, it has to come out before anything new goes in.
 
-We remove attic, wall, basement and crawl space insulation and dispose of it properly. It is quoted as its own job so you can see exactly what that part is costing.
+We remove [attic](attic-insulation.html), wall, [basement](basement-insulation.html) and [crawl space](crawl-spaces-insulation.html) insulation and dispose of it properly. It is quoted as its own job so you can see exactly what that part is costing.
 
 ## Why We Will Not Just Spray Over It
 
@@ -467,7 +469,7 @@ Then we take a moisture reading on the bare substrate. That reading decides whet
 
 ## Get The Removal Quoted
 
-Photos help enormously here, especially of an attic hatch or a crawl space. Send what you can and we will tell you whether it is a removal job or not.
+Photos help enormously here, especially of an attic hatch or a crawl space. Send what you can and we will tell you whether it is a removal job or not. See every service we offer on the [Leamington Spray Foam Insulation home page](index.html).
 
 ---
 
@@ -507,7 +509,7 @@ We also work around production. Most of this gets done in a shutdown window or o
 
 ## Book A Site Walk
 
-Tell us the building, what it holds and what temperature you are trying to keep. We will walk it and give you a scope that separates the parts worth doing from the parts that are not.
+Tell us the building, what it holds and what temperature you are trying to keep. We will walk it and give you a scope that separates the parts worth doing from the parts that are not. See every service we offer on the [Leamington Spray Foam Insulation home page](index.html).
 
 ---
 
@@ -531,7 +533,7 @@ Roof heat loss on a modern range is handled by energy curtains, and that is the 
 
 Headhouses, grading lines and packing rooms, which are usually heated harder than the range itself and are often barely insulated at all.
 
-Cold storage and shipping areas, where the vapour drive in a Leamington August is severe.
+Cold storage and shipping areas, where the vapour drive in a Leamington August is severe. For heavier refrigerated or industrial work, see [commercial and cold storage insulation](commercial-insulation.html).
 
 Boiler rooms and mechanical spaces, and the pipe runs through unheated areas where the heat is not doing anything useful.
 
@@ -555,7 +557,7 @@ We will also give you a written spec with the product and the installed thicknes
 
 ## Book A Site Walk
 
-Tell us the range size, how it is heated and which buildings are on the site. We will walk it and come back with a scope in order of what pays back first.
+Tell us the range size, how it is heated and which buildings are on the site. We will walk it and come back with a scope in order of what pays back first. See every service we offer on the [Leamington Spray Foam Insulation home page](index.html).
 
 ---
 
@@ -567,7 +569,7 @@ Tell us the range size, how it is heated and which buildings are on the site. We
 
 We are an insulation contractor. Attics, basements, crawl spaces, garages, new builds, greenhouses and commercial buildings, using closed cell and open cell spray foam.
 
-We work in Leamington and south Essex County and nowhere else. Buildings in one county tend to fail in the same handful of ways, and after enough of them you stop guessing and start recognising.
+We work in Leamington and south Essex County and nowhere else. Buildings in one county tend to fail in the same handful of ways, and after enough of them you stop guessing and start recognizing.
 
 ## We Talk About Vapour More Than Most
 
@@ -609,7 +611,7 @@ This site is sponsored by [drywall contractor](https://www.madisonbasementfinish
 
 ## Get In Touch
 
-Call, text or send photos. If your problem turns out not to be insulation, we will tell you that too.
+Call, text or send photos. If your problem turns out not to be insulation, we will tell you that too. See the full [Leamington Spray Foam Insulation home page](index.html) for every service we cover.
 
 ---
 
@@ -617,9 +619,9 @@ Call, text or send photos. If your problem turns out not to be insulation, we wi
 
 # Contact Leamington Spray Foam Insulation
 
-## Talk To The Person Who Will Do The Work
+## Getting A Straight Answer Fast
 
-Ring the number and you get somebody who will be on your job, not a call centre taking a message. If we are spraying we will not answer, but leave a message or send a text and you will hear back the same day.
+Call the number and you get a direct answer, not an automated menu. If we are spraying we will not answer, but leave a message or send a text and you will hear back the same day.
 
 ## What Helps Us Quote
 
@@ -641,7 +643,9 @@ The hamlets inside the municipality as well, since the amalgamation with Mersea 
 
 Kingsville, Ruthven and Cottam to the west. Essex, Harrow and McGregor beyond that. Staples and Comber up toward the 401.
 
-Sitting just beyond that boundary? Ring and check. If the travel makes it poor value for you, we will say so rather than quote it.
+Sitting just beyond that boundary? Call and check. If the travel makes it poor value for you, we will say so rather than quote it.
+
+See the rest of what we cover on the [Leamington Spray Foam Insulation home page](index.html).
 
 ## Contact Information
 
@@ -950,7 +954,7 @@ Still Have A Question?
 
 ## FAQ Page CTA Text
 
-Ring (226) 286-5239. If the honest answer to your problem is a downspout rather than a spray rig, we will say so.
+Call (226) 286-5239. If the honest answer to your problem is a downspout rather than a spray rig, we will say so.
 
 ## Contact Page CTA Heading
 

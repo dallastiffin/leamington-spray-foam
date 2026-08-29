@@ -293,17 +293,33 @@ def esc(s):
 # ---------------------------------------------------------------------------
 EXTERNAL_REL = "noopener"
 
-_MD_LINK = re.compile(r'\[([^\]]+)\]\((https?://[^\s)]+)\)')
+_MD_LINK = re.compile(r'\[([^\]]+)\]\(([^\s)]+)\)')
 
 
 def rich(s):
-    """Escape prose, then turn [text](url) into a real anchor."""
+    """Escape prose, then turn [text](url) into a real anchor.
+
+    External (http/https) targets get target="_blank", rel=EXTERNAL_REL and
+    the ext-link class, exactly as before. Internal targets (slug.html,
+    index.html) render as a plain anchor with no target/rel - rewrite_links()
+    turns the .html reference into the extensionless served path and applies
+    SLUG_ALIAS, same as every other internal link on the site. This is what
+    lets body copy carry the required internal cross-links between services,
+    about and contact without a second markup syntax."""
     out = esc(s)
     def repl(m):
         label, url = m.group(1), m.group(2)
-        return ('<a href="%s" target="_blank" rel="%s">%s</a>'
-                % (html.escape(url, quote=True), EXTERNAL_REL, label))
+        if url.startswith("http://") or url.startswith("https://"):
+            return ('<a class="ext-link" href="%s" target="_blank" rel="%s">%s</a>'
+                    % (html.escape(url, quote=True), EXTERNAL_REL, label))
+        return '<a href="%s">%s</a>' % (html.escape(url, quote=True), label)
     return _MD_LINK.sub(repl, out)
+
+
+def plain(s):
+    """Strip [text](url) down to text. For meta descriptions and card blurbs,
+    where an anchor would be wrong or would leak raw markdown."""
+    return esc(_MD_LINK.sub(lambda m: m.group(1), s))
 
 # ---------------------------------------------------------------- parse md
 raw = open(SRC, encoding="utf-8").read()
@@ -674,7 +690,7 @@ def form_fields(pfx, compact=False):
             <label for="{pfx}-message">Message</label>
             <textarea id="{pfx}-message" name="message" data-label="Message"
                       {'rows="3"' if compact else ''}
-                      placeholder="Rough size of the space, what it is used for, and whether water has ever come in."></textarea>
+                      placeholder="Tell us the rough size of the space, what it is used for, and whether water has ever come in."></textarea>
             <span class="field__error" aria-live="polite"></span>
           </div>
 
@@ -934,7 +950,7 @@ def faq_accordion(sec, id_prefix):
 
     items = []
     for i, (question, answers) in enumerate(pairs, start=1):
-        body = "\n".join(f"          <p>{esc(a)}</p>" for a in answers)
+        body = "\n".join(f"          <p>{rich(a)}</p>" for a in answers)
         items.append(f"""      <div class="faq__item">
         <h3 class="faq__question">
           <button class="faq__trigger" type="button" id="{id_prefix}-q{i}"
@@ -987,7 +1003,7 @@ def services_grid(exclude=None, heading=None, intro=None):
         </div>
         <div class="service-card__body">
           <h3><a href="{slug}">{esc(title)}</a></h3>
-          <p>{esc(blurb)}</p>
+          <p>{plain(blurb)}</p>
           <a class="service-card__link" href="{slug}">View {esc(title)}</a>
         </div>
       </article>""")
@@ -1338,12 +1354,12 @@ hero_paras = "\n".join(f"    <p>{rich(t)}</p>" for k, t in hero_sec["nodes"] if 
 # Benefit cards - one card per source paragraph (no text removed)
 benefit_cards = "\n".join(f"""      <article class="feature">
         <div class="feature__icon" aria-hidden="true">&#10003;</div>
-        <p>{esc(t)}</p>
+        <p>{rich(t)}</p>
       </article>""" for k, t in benefits["nodes"] if k == "p")
 
 # Process steps - one step per source paragraph
 step_cards = "\n".join(f"""      <li class="step">
-        <p>{esc(t)}</p>
+        <p>{rich(t)}</p>
       </li>""" for k, t in process["nodes"] if k == "p")
 
 mid = len(body_sections) // 2
@@ -1551,7 +1567,7 @@ for idx, (slug, title, short) in enumerate(SERVICE_PAGES):
     }
     extra_ld = crumb_ld + "\n<script type=\"application/ld+json\">\n" + json.dumps(service_ld, indent=2) + "\n</script>"
 
-    over_paras = "\n".join(f"      <p>{esc(t)}</p>" for k, t in overview["nodes"] if k == "p")
+    over_paras = "\n".join(f"      <p>{rich(t)}</p>" for k, t in overview["nodes"] if k == "p")
 
     blocks_html = []
     for i, s in enumerate(middle):
@@ -1864,7 +1880,7 @@ def legal_page(slug, title, meta, h1, eyebrow, crumb_label, sections):
     crumbs, crumb_ld = breadcrumbs([("Home", "index.html"), (crumb_label, None)])
     body = "".join(f"""      <section class="content-block">
         <h2>{esc(t)}</h2>
-{chr(10).join(f'        <p>{esc(p)}</p>' for p in ps)}
+{chr(10).join(f'        <p>{rich(p)}</p>' for p in ps)}
       </section>
 """ for t, ps in sections)
     page = head(title, meta, slug, crumb_ld)
