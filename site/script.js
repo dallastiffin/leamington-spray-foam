@@ -199,7 +199,8 @@
   // It was carried over from Windsor when this folder was copied - leaving it
   // would have posted every Grimsby lead into the Windsor spreadsheet.
   // Rerun build.py after changing it so the cache fingerprint updates.
-  var SHEET_ENDPOINT = 'https://script.google.com/macros/s/AKfycbzkVatygsQXHWVoLH3vD--sSER6cpCovPXSaTfbAk3BszBDHlVxKU2LBiaojlYat8SWUw/exec';
+  var SHEET_ENDPOINT = 'https://script.google.com/macros/s/AKfycbyUzWIbd-lu-Lbsx4iQWj0bLN1fqSG2pyzyhrR7O4clNP8Rx0wFUqknTYX8_Cjhx77fng/exec';
+  var SITE_KEY = 'leamington-spray-foam-insulation';
 
   /* Fallback for CORS trouble. Leave false. If submissions are reaching
      the sheet but the page still shows an error, set this to true: the
@@ -297,6 +298,7 @@
         // Which form on which page produced this lead
         data.source = form.getAttribute('data-source') || document.title;
         data.pageUrl = window.location.href;
+        data.site = SITE_KEY;
 
         var button = form.querySelector('button[type="submit"]');
         var originalText = button ? button.textContent : '';
