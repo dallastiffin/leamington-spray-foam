@@ -1112,5 +1112,9 @@ Insulation and envelope work generates dust and debris that a freshly painted su
 
 A property owner tackling both insulation and a cabinet refresh in the same season benefits from a clear order of operations. [Cambridge Cabinet Painting](https://cambridgecabinetpainting.com/ "nf") generally recommends finishing dust-generating work first, then bringing in the finishing trades once the space is clean.
 
+## Attic-Only Projects
+
+Some insulation projects are attic-only. [Kanata Attic Insulation](https://kanataatticinsulation.com/ "nf") focuses on attics, which makes it a useful call in Kanata when the attic is the whole job.
+
 [Get a Free Quote](#quote), [contact us with questions](contact.html), or return to the [Leamington Spray Foam Insulation home page](index.html).
 
